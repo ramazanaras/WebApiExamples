@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="Scripts/jquery-3.3.1.min.js"></script>
+    <script>
+        $(function () {
+
+            $("#btnVerileriCek").click(function () {
+
+
+                $.ajax({
+                    type: "GET",
+                    url: "http://localhost:8091/api/sehir", //local IIS'deki apimiz
+                    success: function (response) { //apiden gelen veri -->response
+
+                        console.log(response);
+
+                    }
+
+                });
+
+            });
+
+        });
+    </script>
+</head>
+<body>
+
+
+    <a id="btnVerileriCek">Verileri Çek</a>
+
+</body>
+</html>

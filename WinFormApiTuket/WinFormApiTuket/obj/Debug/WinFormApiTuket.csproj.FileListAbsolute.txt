@@ -1,0 +1,9 @@
+C:\Users\RAMAZAN\Desktop\WinFormApiTuket\WinFormApiTuket\bin\Debug\WinFormApiTuket.exe.config
+C:\Users\RAMAZAN\Desktop\WinFormApiTuket\WinFormApiTuket\bin\Debug\WinFormApiTuket.exe
+C:\Users\RAMAZAN\Desktop\WinFormApiTuket\WinFormApiTuket\bin\Debug\WinFormApiTuket.pdb
+C:\Users\RAMAZAN\Desktop\WinFormApiTuket\WinFormApiTuket\obj\Debug\WinFormApiTuket.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\WinFormApiTuket\WinFormApiTuket\obj\Debug\WinFormApiTuket.Form1.resources
+C:\Users\RAMAZAN\Desktop\WinFormApiTuket\WinFormApiTuket\obj\Debug\WinFormApiTuket.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\WinFormApiTuket\WinFormApiTuket\obj\Debug\WinFormApiTuket.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\WinFormApiTuket\WinFormApiTuket\obj\Debug\WinFormApiTuket.exe
+C:\Users\RAMAZAN\Desktop\WinFormApiTuket\WinFormApiTuket\obj\Debug\WinFormApiTuket.pdb

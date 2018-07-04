@@ -1,0 +1,6 @@
+C:\Users\RAMAZAN\Desktop\WebProjesiApiTuket\WebProjesiApiTuket\bin\WebProjesiApiTuket.dll.config
+C:\Users\RAMAZAN\Desktop\WebProjesiApiTuket\WebProjesiApiTuket\bin\WebProjesiApiTuket.dll
+C:\Users\RAMAZAN\Desktop\WebProjesiApiTuket\WebProjesiApiTuket\bin\WebProjesiApiTuket.pdb
+C:\Users\RAMAZAN\Desktop\WebProjesiApiTuket\WebProjesiApiTuket\obj\Debug\WebProjesiApiTuket.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\WebProjesiApiTuket\WebProjesiApiTuket\obj\Debug\WebProjesiApiTuket.dll
+C:\Users\RAMAZAN\Desktop\WebProjesiApiTuket\WebProjesiApiTuket\obj\Debug\WebProjesiApiTuket.pdb

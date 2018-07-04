@@ -1,0 +1,31 @@
+C:\Users\RAMAZAN\Desktop\IlkApi\IlkApi\bin\IlkApi.dll.config
+C:\Users\RAMAZAN\Desktop\IlkApi\IlkApi\bin\IlkApi.dll
+C:\Users\RAMAZAN\Desktop\IlkApi\IlkApi\bin\IlkApi.pdb
+C:\Users\RAMAZAN\Desktop\IlkApi\IlkApi\bin\Newtonsoft.Json.dll
+C:\Users\RAMAZAN\Desktop\IlkApi\IlkApi\bin\System.Net.Http.Formatting.dll
+C:\Users\RAMAZAN\Desktop\IlkApi\IlkApi\bin\System.Web.Http.dll
+C:\Users\RAMAZAN\Desktop\IlkApi\IlkApi\bin\System.Web.Http.WebHost.dll
+C:\Users\RAMAZAN\Desktop\IlkApi\IlkApi\bin\Newtonsoft.Json.xml
+C:\Users\RAMAZAN\Desktop\IlkApi\IlkApi\bin\System.Net.Http.Formatting.xml
+C:\Users\RAMAZAN\Desktop\IlkApi\IlkApi\bin\System.Web.Http.xml
+C:\Users\RAMAZAN\Desktop\IlkApi\IlkApi\bin\System.Web.Http.WebHost.xml
+C:\Users\RAMAZAN\Desktop\IlkApi\IlkApi\obj\Debug\IlkApi.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\IlkApi\IlkApi\obj\Debug\IlkApi.dll
+C:\Users\RAMAZAN\Desktop\IlkApi\IlkApi\obj\Debug\IlkApi.pdb
+C:\Users\RAMAZAN\Desktop\kenan yıldırım web api\IlkApi\IlkApi\bin\IlkApi.dll.config
+C:\Users\RAMAZAN\Desktop\kenan yıldırım web api\IlkApi\IlkApi\bin\IlkApi.dll
+C:\Users\RAMAZAN\Desktop\kenan yıldırım web api\IlkApi\IlkApi\bin\IlkApi.pdb
+C:\Users\RAMAZAN\Desktop\kenan yıldırım web api\IlkApi\IlkApi\bin\Newtonsoft.Json.dll
+C:\Users\RAMAZAN\Desktop\kenan yıldırım web api\IlkApi\IlkApi\bin\System.Net.Http.Formatting.dll
+C:\Users\RAMAZAN\Desktop\kenan yıldırım web api\IlkApi\IlkApi\bin\System.Web.Cors.dll
+C:\Users\RAMAZAN\Desktop\kenan yıldırım web api\IlkApi\IlkApi\bin\System.Web.Http.Cors.dll
+C:\Users\RAMAZAN\Desktop\kenan yıldırım web api\IlkApi\IlkApi\bin\System.Web.Http.dll
+C:\Users\RAMAZAN\Desktop\kenan yıldırım web api\IlkApi\IlkApi\bin\System.Web.Http.WebHost.dll
+C:\Users\RAMAZAN\Desktop\kenan yıldırım web api\IlkApi\IlkApi\bin\System.Web.Http.Cors.xml
+C:\Users\RAMAZAN\Desktop\kenan yıldırım web api\IlkApi\IlkApi\bin\Newtonsoft.Json.xml
+C:\Users\RAMAZAN\Desktop\kenan yıldırım web api\IlkApi\IlkApi\bin\System.Net.Http.Formatting.xml
+C:\Users\RAMAZAN\Desktop\kenan yıldırım web api\IlkApi\IlkApi\bin\System.Web.Http.xml
+C:\Users\RAMAZAN\Desktop\kenan yıldırım web api\IlkApi\IlkApi\bin\System.Web.Http.WebHost.xml
+C:\Users\RAMAZAN\Desktop\kenan yıldırım web api\IlkApi\IlkApi\obj\Debug\IlkApi.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\kenan yıldırım web api\IlkApi\IlkApi\obj\Debug\IlkApi.dll
+C:\Users\RAMAZAN\Desktop\kenan yıldırım web api\IlkApi\IlkApi\obj\Debug\IlkApi.pdb

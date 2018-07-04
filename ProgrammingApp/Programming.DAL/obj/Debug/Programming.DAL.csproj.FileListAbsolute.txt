@@ -1,0 +1,10 @@
+C:\Users\RAMAZAN\Desktop\ProgrammingApp\Programming.DAL\bin\Debug\Programming.DAL.dll.config
+C:\Users\RAMAZAN\Desktop\ProgrammingApp\Programming.DAL\bin\Debug\Programming.DAL.dll
+C:\Users\RAMAZAN\Desktop\ProgrammingApp\Programming.DAL\bin\Debug\Programming.DAL.pdb
+C:\Users\RAMAZAN\Desktop\ProgrammingApp\Programming.DAL\bin\Debug\EntityFramework.dll
+C:\Users\RAMAZAN\Desktop\ProgrammingApp\Programming.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\RAMAZAN\Desktop\ProgrammingApp\Programming.DAL\bin\Debug\EntityFramework.xml
+C:\Users\RAMAZAN\Desktop\ProgrammingApp\Programming.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\RAMAZAN\Desktop\ProgrammingApp\Programming.DAL\obj\Debug\Programming.DAL.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\ProgrammingApp\Programming.DAL\obj\Debug\Programming.DAL.dll
+C:\Users\RAMAZAN\Desktop\ProgrammingApp\Programming.DAL\obj\Debug\Programming.DAL.pdb
